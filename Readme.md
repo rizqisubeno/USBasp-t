@@ -4,6 +4,7 @@ This is a work in progress.
 
 * Port of USBasp to ATtiny 85
 * Design of optimized hardware
+* adding feature for mcu 8051 family
 
 Why?
 
@@ -27,6 +28,7 @@ Hardware:
 * Revision 0.5 sent to OSH park for pcb manufacturing.
 * Update v1.1 done, ready for manufacturing.
 * Update 02/08/2013: All parts received, first device built.
+* Update 02/02/2019: adding feature for mcu 8051 family
 
 ### Hardware ###
 
